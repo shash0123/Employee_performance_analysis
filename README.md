@@ -47,9 +47,3 @@ Continuous Improvement: Establish mechanisms for ongoing monitoring and feedback
 The proposed data science initiative represents a proactive approach by INX to address current challenges in employee performance while safeguarding its reputation as a preferred employer. By leveraging data analytics, INX aims to uncover actionable insights that not only improve performance metrics but also support a positive and productive work environment. Through this initiative, Mr. Brain and the leadership team anticipate making well-informed decisions that benefit both the company and its valued employees.
 
 In summary, investing in data science capabilities to understand and address employee performance issues is not just a strategic move for INX—it's a commitment to sustaining excellence and fostering growth in a competitive industry landscape.
-The goal and insights of the projects:
-
-1. Department wise Performances.
-2. Top 3 Important Factors effecting employee performance.
-3. A trained model which can predict the employee performance based on factors as inputs. This will be used to hire employees.
-4. Recommendations to improve the employee performance based on insights from analysis.
